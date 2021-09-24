@@ -1,3 +1,3 @@
-w# FirstVueJSApplication
+# FirstVueJSApplication
 
 
