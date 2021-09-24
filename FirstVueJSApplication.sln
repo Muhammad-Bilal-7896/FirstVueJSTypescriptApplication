@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FirstVueJSApplication", "FirstVueJSApplication\FirstVueJSApplication.njsproj", "{81230DF5-0860-449E-A307-275C346A15FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81230DF5-0860-449E-A307-275C346A15FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81230DF5-0860-449E-A307-275C346A15FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81230DF5-0860-449E-A307-275C346A15FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81230DF5-0860-449E-A307-275C346A15FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC64DBB-FBE6-43DA-B1F2-10EDB3F77E08}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+E:\Fifth Semester Material\SE Lab\Lab 2 Functional,Non-Functional Requirements\C#Workof Lab 2\FirstVueJSApplication\FirstVueJSApplication\obj\Debug\FirstVueJSApplication.njsproj.AssemblyReference.cache
+E:\Fifth Semester Material\SE Lab\Lab 2 Functional,Non-Functional Requirements\C#Workof Lab 2\FirstVueJSApplication\FirstVueJSApplication\obj\Debug\FirstVueJSApplication.njsproj.CoreCompileInputs.cache
+E:\Fifth Semester Material\SE Lab\Lab 2 Functional,Non-Functional Requirements\C#Workof Lab 2\FirstVueJSApplication\FirstVueJSApplication\bin\Microsoft.NodejsTools.WebRole.dll
